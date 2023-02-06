@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+HEAD
 # Project2
-=======
-# git-project2
 
->>>>>>> changed file
+# git-project2
+changed file
